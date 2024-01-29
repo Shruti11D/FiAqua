@@ -1,1 +1,1 @@
-Modern Animations with GSAP.
+Modern Animation with GSAP.
